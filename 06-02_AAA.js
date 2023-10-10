@@ -1,6 +1,6 @@
 import nodemailer from 'nodemailer';
 
-export function send(SenderMail,Password , Message)
+export default function send(SenderMail,Password , Message)
 {
     const transporter = nodemailer.createTransport({
         service : 'hotmail',
