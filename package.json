@@ -1,0 +1,15 @@
+{
+  "name": "fourthtask",
+  "version": "1.0.0",
+  "description": "",
+  "main": "06-02_AAA.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/morafeus/ForNodePackage.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
